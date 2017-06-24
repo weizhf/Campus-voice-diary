@@ -1,2 +1,1 @@
-# Campus-voice-diary
-This is a project for team 666.
+# 回忆44 ver1.2.0

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="18dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_date"
+            android:text="2016年12月13日18:48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"/>
+
+        <ToggleButton
+            android:id="@+id/play"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/toggle_talk"
+            android:checked="true"
+            android:textOff=""
+            android:textOn=""
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+            <ImageView
+                android:src="@drawable/card_location_small"
+                android:layout_height="20dp"
+                android:layout_width="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="5dp"/>
+
+            <EditText
+                android:id="@+id/et_place"
+                android:layout_weight="1"
+                style="@style/DetailDialogInput"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="标题："
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/et_title"
+                android:hint="为您的语音命名"
+                android:layout_weight="1"
+                style="@style/DetailDialogInput"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="心情："
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/et_feel"
+                android:hint="此刻的心情"
+                android:layout_weight="1"
+                style="@style/DetailDialogInput"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="感想："
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top" />
+
+            <EditText
+                android:id="@+id/et_talk"
+                android:hint="请写下此刻想说的话"
+                android:layout_weight="1"
+                android:gravity="top"
+                android:inputType="text|textMultiLine"
+                style="@style/DetailDialogInput"
+                android:minLines="6" />
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>

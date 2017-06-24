@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">回忆44</string>
+    <string name="clock">00:00</string>
+    <string name="ok">OK</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="cancel">Cancel</string>
+    <string name="play">Play</string>
+    <string name="playing_state">Playing state</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

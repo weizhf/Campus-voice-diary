@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/player_play_activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.group.android.finalproject.player.activity.PlayerPlayActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/player_play_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize">
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TableLayout
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+            <TextView
+                android:textSize="20sp"
+                android:text="时间："/>
+            <TextView
+                android:textSize="20sp"
+                android:id="@+id/player_play_date"
+                android:layout_weight="1"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="8dp">
+            <TextView
+                android:textSize="20sp"
+                android:text="地点："/>
+            <TextView
+                android:textSize="20sp"
+                android:id="@+id/player_play_place"
+                android:layout_weight="1"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="8dp">
+            <TextView
+                android:textSize="20sp"
+                android:text="心情："/>
+            <TextView
+                android:textSize="20sp"
+                android:id="@+id/player_play_feel"
+                android:layout_weight="1"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="8dp">
+            <TextView
+                android:textSize="20sp"
+                android:text="感想："/>
+            <TextView
+                android:textSize="20sp"
+                android:id="@+id/player_play_remark"
+                android:layout_weight="1"
+                android:gravity="top"
+                android:minLines="6"/>
+        </TableRow>
+
+    </TableLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/player_play_current"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#323232"
+            android:text="00:00"/>
+
+        <SeekBar
+            android:id="@+id/player_play_seek"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/player_play_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#323232"
+            android:text="00:00"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/player_play_music_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/player_activity_play"
+            style="?attr/borderlessButtonStyle"/>
+
+        <ImageButton
+            android:id="@+id/player_play_return"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/player_activity_return"
+            style="?attr/borderlessButtonStyle"/>
+
+    </LinearLayout>
+
+</LinearLayout>

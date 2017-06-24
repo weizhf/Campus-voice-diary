@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_b6630d4bc084132aad3c5afa32e8344bc51e5b8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions/rxpermissions/0.9.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3caf7f422c73c08c744cafcae481781a13b54d70">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tbruyelle.rxpermissions-rxpermissions-0.9.0_36a887477571e248f2c1df88d24db02f8921e41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_1de32186dd751faa3021f702a3fe97f729e15ea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_7236fad60bae390d131a3f6054d5ca66fbbe71e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_7a7fab4c4780e896bf559754a45593b7f976c462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_494a9fbab40c82cb0abdaaab1aa319d3d002d810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b84a7df823a12e955108c5f64503603e95ec96b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_03b1e57bb36f5b7db19054fdec8068774442824a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae5992ff621f3ffa436b1a4f9e95698f1c260cb5">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ac39eda2d7e528cedafea610a0dcb63982c23112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.baoyz.swipemenulistview/library/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.baoyz.swipemenulistview-library-1.3.0_b05e8699544f216e4dfa9d2deab704ebf212169c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_01311bf3236702b0f6896951ee7ed80cf3a45860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_531bf0b1a35cd2e1ccde7e4945e9e451fdf0861b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_7f8c8a6f2a5fadaf2b7685048ca76a684b950709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="100cdd6fb12393fbd3c45b399275c9e5a33f086a">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1aa16fc39565e038c211f735cc56aef8af34892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_3185af1c819461e508aba71e1431a1cac5afa9d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_b9cfee00971c20c80c18fbcda23543479f1c6788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_1569b342889eb6f16d4eb441b39a8d8e3fa10c06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_dc7b934a71e8fe32793e172d2639797ccb383d99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/imac/Desktop/FinalProject-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_e933e08bfd25450d0308f9bb03f6baa7a3b76983/classes.dex" />
+    </item>
+
+</items>
